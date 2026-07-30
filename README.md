@@ -25,3 +25,17 @@ Computer Science Student | Full Stack Developer | Competitive Programmer
 - 💻 Currently focused on **Full Stack Development**, **Competitive Programming**, and **Machine Learning**.
 - 🌱 Learning **React**, **Spring Boot**, **Advanced DSA**, and **Classical Machine Learning**.
 - 🚀 Goal: Build production-ready applications that solve real-world problems.
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
+</p>
