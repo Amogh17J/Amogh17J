@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Amogh Johari 👋
+
+Computer Science Student
+
+💻 Interests
+• Full Stack Development
+• Machine Learning
+• Competitive Programming
+
+
+📈 Currently Learning
+• React
+• Spring Boot
+• Classical Machine Learning
+• Advanced DSA
+
+🛠 Tech Stack
+Java • JavaScript • HTML • CSS • React • Git • SQL
+
+📫 Connect with me
+LinkedIn | Portfolio | Email
