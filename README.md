@@ -12,3 +12,16 @@ Computer Science Student | Full Stack Developer | Competitive Programmer
     alt="Typing SVG"
   />
 </p>
+
+
+
+
+
+
+ 
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student passionate about building impactful software.
+- 💻 Currently focused on **Full Stack Development**, **Competitive Programming**, and **Machine Learning**.
+- 🌱 Learning **React**, **Spring Boot**, **Advanced DSA**, and **Classical Machine Learning**.
+- 🚀 Goal: Build production-ready applications that solve real-world problems.
