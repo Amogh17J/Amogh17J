@@ -28,14 +28,6 @@ Computer Science Student | Full Stack Developer | Competitive Programmer
 
 ## 🛠 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,git,mysql&perline=7" />
 </p>
