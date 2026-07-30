@@ -8,7 +8,7 @@ Computer Science Student | Full Stack Developer | Competitive Programmer
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=500&color=030712&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Learning+Classical+Machine+Learning
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=500&color=030712&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Learning+Classical+Machine+Learning"
     alt="Typing SVG"
   />
 </p>
